@@ -1,16 +1,7 @@
-# qr
+# Генератор QR-кодов
 
-A new Flutter project.
 
-## Getting Started
+![image](https://github.com/AreHumphrey/QR_Generate/assets/115383388/414b4fa4-07cf-435b-8c36-381871c0661f)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/AreHumphrey/QR_Generate/assets/115383388/a0cc610d-19aa-4de9-ad9e-a4d72441076b)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
